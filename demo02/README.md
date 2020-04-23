@@ -7,8 +7,8 @@
 | conf.js | 存放着系统的配置信息`（配置 mongoDB 数据库的参数）` |
 | mongodb.js | 与 MongoDB 相关的内容，会引入 conf.js |
 | daos | 该文件夹是封装了所有对数据库的操作（api设计等），对应 models |
-| models | 该文件夹是数据库集合设计，存放着mongoose的模型类如User |
-| routes | 该文件夹是`应用路由控制跳转(Router)和请求分发处理的模块`，根据对象信息进行模块化 |
+| models | 该文件夹是数据库集合设计，存放着 mongoose 的模型类如 users.js |
+| routes | 该文件夹是`应用路由控制跳转(Router)和请求分发处理的模块`，根据对象信息进行模块化，会引入旗下文件如：user.js |
 | public | 该文件夹是一些静态元素 |
 | logs | 该文件夹是存放了系统日志 |
 | package.json | 定义了系统需要的其他的第三方模块，如express，ejs等 |
