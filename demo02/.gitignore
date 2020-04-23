@@ -1,0 +1,8 @@
+# 忽略 node_modules/ 目录下的所有文件
+node_modules/
+# 会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
+doc/*.txt
+
+*.zip
+*.config
+*.sln
