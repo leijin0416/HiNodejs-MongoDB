@@ -17,7 +17,7 @@
 
 [1、布局文档](https://github.com/bitwater/HelloNodejsMedical/blob/master/server.js)
 
-[mongodb-zip下载](http://dl.mongodb.org/dl/win32/x86_64)
+[2、mongodb-zip下载](http://dl.mongodb.org/dl/win32/x86_64)
 
 ### 1、新建node文件夹
 

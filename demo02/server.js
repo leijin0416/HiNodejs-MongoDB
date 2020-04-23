@@ -2,7 +2,6 @@
  * server.js 是系统服务配置和创建的地方，全局
  * 
  */
-
 var express = require('express');
 var bodyParser = require('body-parser');  
 var conf = require('./conf');

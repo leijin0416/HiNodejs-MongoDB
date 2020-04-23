@@ -22,7 +22,7 @@ exports.doAll = function (req, res) {
 					list: doc
 				}
 			})
-        }
+		}
 	})
 }
 
@@ -46,6 +46,6 @@ exports.byName = function (req, res) {
 					list: doc
 				}
 			})
-        }
+		}
 	})
 }
