@@ -24,7 +24,7 @@ exports.doAll = function (req, res) {
 			})
 		}
 	})
-}
+};
 
 /**
  *  post请求
@@ -48,4 +48,4 @@ exports.byName = function (req, res) {
 			})
 		}
 	})
-}
+};
